@@ -1,0 +1,25 @@
+html {
+  font-family: "Monospace", sans-serif;
+}
+
+body {
+  background-color: #2E2E32;
+  color: #F0F0F0;
+  font-weight: 100;
+  max-width: 50em;
+  margin: 0 auto;
+}
+
+div:focus {
+  outline: none;
+}
+
+#heading {
+  font-size: 48px;
+  padding-top: 30px;
+}
+
+#content {
+  padding-top: 10px;
+  font-size: 24px;
+}
