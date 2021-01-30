@@ -1,5 +1,5 @@
 document.getElementById("heading").innerHTML =
-  localStorage["title"] || "Cadambra"; // default text
+  localStorage["title"] || ""; // default text
 document.getElementById("content").innerHTML =
   localStorage["text"] || "Type here"; // default text
 
